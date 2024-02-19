@@ -37,3 +37,8 @@ footer {
 .show-card {
     padding: 10px;
 }
+
+.card-img-overlay {
+    background-color: black;
+    opacity: 30%;
+}
