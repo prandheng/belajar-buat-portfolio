@@ -1,0 +1,36 @@
+.jumbotron {
+    background-color: blanchedalmond;
+    background-image: url(image/jumbotron.jpg);
+    background-position: center;
+}
+
+.protest-strike-regular {
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.navbar {
+    background-color: rgb(210, 187, 157);
+}
+
+.nav-link {
+    margin: 10px;
+}
+
+.nav-link a {
+    text-decoration: none;
+    font-style: italic;
+    color: black;
+}
+
+footer {
+    background-color: rgb(206, 169, 120);
+    
+}
